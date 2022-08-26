@@ -15,6 +15,6 @@ descripcion del diseño en compu.... y que informacion me da cada etapa, lectura
 <br>
 ver [enlace](www.google.com)
 <br>
-<a href="www.google.com" target="_top">Descarga Aqui
+<a href="www.google.com" target="www.google.com">Descarga Aqui
 <br>
 <a href="../IMAGENES" target="_top">Carpeta Imagenes
