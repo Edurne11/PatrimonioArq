@@ -13,4 +13,4 @@ imagenes de los marcadores propuestos
 <br>
 descripcion del diseño en compu.... y que informacion me da cada etapa, lectura de los sensores
 <br>
-
+ver [enlace](www.google.com)
