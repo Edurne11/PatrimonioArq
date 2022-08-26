@@ -14,3 +14,7 @@ imagenes de los marcadores propuestos
 descripcion del diseño en compu.... y que informacion me da cada etapa, lectura de los sensores
 <br>
 ver [enlace](www.google.com)
+<br>
+<a href="www.google.com" target="_top">Descarga Aqui
+<br>
+<a href="../IMAGENES" target="_top">Carpeta Imagenes
