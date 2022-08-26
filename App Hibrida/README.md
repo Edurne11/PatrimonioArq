@@ -1,10 +1,12 @@
 # Que es una Aplicación Hibrida
-<br>
+xxxxx
 ## Aplicacion Movil
+xxxx
 <br>
 descripcion de app movil... que tiene, como funciona, poner las imagenes del diseño la app. realidad aumentada
-<br>
+xxxx
 ### Marcadores
+xxx
 <br>
 imagenes de los marcadores propuestos 
 ## Aplicacion Web
