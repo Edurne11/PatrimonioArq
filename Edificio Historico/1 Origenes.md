@@ -33,12 +33,16 @@ La planta baja se encuentra dispuesto en su parte interna del conjunto con acces
 Mantiene en su interior las oficinas del jefe administrativo y oficinas administrativas, la vigilancia, la recepción en si primer cuadro así como los servicios de acceso como son escaleras y elevador en su parte media del edificio que comunican con los niveles superiores.
 Por la parte externa se da acceso al área de mantenimiento y que de algún modo mantienen bodegas y áreas de archivo.
 
+![Tlalpan 3](https://user-images.githubusercontent.com/109888880/207903984-ed893501-9663-40d6-8034-9d93cc5e0ccf.jpg)
+
+
 PLANTA PRIMER NIVEL
 
 En esta nivel se encuentra oficinas administrativas que corresponden al SUPERISSTE las cuales mantienen un partido arquitectónico con los servicios, es decir el elevador y las escaleras, en sus costados se mantienen áreas administrativas con oficinas en una orientación de 45° ya que de igual modo, teniendo en cuenta que se encuentra en su partes del costado escaleras de servicio dentro del primer cuerpo del edificio.
 En su parte lateral exterior mantiene una escalera original que comunica a los dos niveles originales del edificio, y que en el extremo este comunica a la azotea.
 
 
+![Tlalpan 4](https://user-images.githubusercontent.com/109888880/207904210-ce8efcc5-0b6b-4aea-b3ba-1872475894e3.jpg)
 
 
 
@@ -52,6 +56,11 @@ El segundo nivel mantiene en su parte media la escalera y el elevador en una dis
 Mantienen en los costados las escaleras laterales y no mantienen conexión con las escaleras originales, es decir el límite queda en el cuerpo principal del edificio antiguo.
 Mantienen un entrepiso de acero con un piso de duela de madera, chapado y con un recubrimiento vinílico, y un techo a base de plafón blanco.
 
+
+![Tlalpan 5](https://user-images.githubusercontent.com/109888880/207904422-41c1de74-01f1-4d60-a338-d148f83332c9.jpg)
+
+
+
 PLANTA TERCER NIVEL
 
 El tercer nivel al igual que el segundo y el primero mantiene en su parte media la escalera y el elevador en una disposición espacia de 45°, así mismo mantiene en sus costados las oficinas de igual modo en una disposición de 45 ° respectivamente, es decir dando la orientación hacia el centro del edificio, a su vez mantienen una característica esencial es decir mantienen conexiones internas entre oficinas y con un pasillo interno de 1.20 metro el cual se comparte en los siguientes niveles y que está orientado a la fachada sur el cual da a el estacionamiento interno.
@@ -60,6 +69,7 @@ Mantienen un entrepiso de acero con un piso de duela de madera, chapado y con un
 
 
 
+![Tlalpan 6](https://user-images.githubusercontent.com/109888880/207904636-8d87762b-15de-4809-bb62-c860cb945065.jpg)
 
 
 
@@ -69,6 +79,11 @@ PLANTA CUARTO NIVEL
 El cuarto nivel mantiene una disposición al igual que los niveles anteriores de escalera y elevador en su parte media, y en sus costados oficinas con una disposición de 45° que dan apoyo a los jefes de suministros e insumos en medicamentos y materiales para el servicio del ISSSTE.
 Tiene una cubierta de un sistema de entrepiso catalán a base de ladrillo, vigas de acero y un relleno de arena con acabado de entortado en su parte exterior azotea).
 
+
+![Tlalpan 7](https://user-images.githubusercontent.com/109888880/207904776-e2f71d92-2886-404c-a085-08811d7ee026.jpg)
+
+
+
 PLANTA AZOTEA
 
 La planta de azotea mantiene un declive propio del edificio por la configuración del terreno mantiene un mantenimiento deficiente de impermeabilización a base de membrana de poliuretano con acabado gris de grano; para el acceso a este como se mencionó previamente en el tercer nivel en el extremo este del edificio el acceso por medio de escalera adosadas a la pared para su acceso a la azotea. 
@@ -77,8 +92,6 @@ FACHADA NORTE
 
 La fachada Norte se encuentra orientada al interior del conjunto el cual nos comunica al estacionamiento, mantiene un recorrido total de 156.m de largo a su vez mantiene una configuración en su parte central del edificio de 58 ventanas las cuales mantiene dos tipos una ventana tipo de 1.50 m de ancho por 3.40  m de altura, dichas ventanas mantienen un enmarcamiento de cantera y sus cancelerías son de madera de manufactura original, y que de igual manera mantienen una herrería la cual tiene una herrería pintada en color verde al igual que las cancelerías en un estado de deterioro avanzado y que deben ser tomadas en cuenta para su intervención.
 Las siguientes ventanas son de menor tamaño y se encuentran distribuidos en la planta baja únicamente y que mantienen unas dimensiones de 1.50 m y de 1.00 más de altura con una curvatura de medio punto en su remate y que tienen un enmarcamiento a base de ladrillo y con una herrería a base de barrotes circulares a cada 8 cms.
-
-
 
 
 Ocupa un desnivel propio del terreno que abarca las ¾ partes del edifico y que mantuvieron una rampa y un declive para el estacionamiento que da servicio a los trabajadores de dicha área.
@@ -97,6 +110,16 @@ A su vez mantiene un acceso en su parte inferior al cuarto de máquinas original
 FACHADA OESTE
 
 La fachada oeste también se encuentra dentro del conjunto y propiamente dentro del estacionamiento y que al igual que en su otro extremo tiene una distribución del tercer tipo de ventana en su primer y segundo nivel original del edificio.
+
+
+![Tlalpan 8](https://user-images.githubusercontent.com/109888880/207905372-29d99057-3f61-499f-8b9f-c18a0acabf4e.jpg)
+![Tlalpan 9](https://user-images.githubusercontent.com/109888880/207905815-132eecf6-47c5-4de1-82f2-37f65b718342.jpg)
+![Tlalpan 10](https://user-images.githubusercontent.com/109888880/207905844-f8fd8ff1-e66c-40d8-88d2-c88c369034eb.jpg)
+![Tlalpan 11](https://user-images.githubusercontent.com/109888880/207905850-a47d3fdd-740d-44eb-9a73-33533409dd26.jpg)
+
+
+
+
 
 REPORTE DEL SITIO DE TRABAJO
 
