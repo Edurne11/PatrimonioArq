@@ -11,6 +11,7 @@ Durante la presidencia de Álvaro Obregón, en 1928, se modificó el artículo 7
 De este modo se suprime la figura del municipio en el Distrito Federal y se constituye la Ciudad de México, formada por 12 delegaciones (y Tlalpan como una de ellas).
 Con la fusión de las fábricas de papel Loreto y Peña Pobre en 1929 se iniciaron programas de modernización y ampliación.
 En la década de los ochenta la empresa fue cerrada para contrarrestar la contaminación ambiental de la Ciudad de México.
+![Tlalpan 1](https://user-images.githubusercontent.com/109888880/207902047-0dfc15dd-b265-42e4-96e8-3038c9bf34ba.jpg)
 
 INTEGRACION
 
@@ -20,6 +21,11 @@ En el costado Oeste se encuentra el cuarto de máquinas que da servicio a esta �
 En el costado Este se encuentra un área ajardinada que protege al edificio y un acceso vehicular contando con una caseta de vigilancia para dicho servicio. 
 En su parte externa se encuentra la calle que es prolongación de la Avenida San Fernando la cual conecta a la parte externa de la Avenida principal con el acceso al interior del complejo del Instituto y teniendo como colindantes asentamientos irregulares y el acceso a la iglesia de San Francisco.
 El edificio H se encuentra distribuido a su interior en 5 niveles y la planta azotea que más adelante se describen.
+
+
+
+![Tlalpan 2](https://user-images.githubusercontent.com/109888880/207902564-5be2dd07-3839-4e7f-a875-a1d4e5352ead.jpg)
+
 
 PLANTA BAJA	
 
@@ -106,14 +112,5 @@ El edificio se encuentra en su totalidad en un estado de conservación adecuado,
 Los elementos que deben ser atendidos con una intervención más puntual son las cancelerías de madera en puertas y ventanas así como las características para la relación entre sus elementos de degradaddo9 por el sol y los agentes externos naturales como son ya lluvia y el sol.
 Los entrepisos motivo de una intervención anterior para adecuación de espacios requieren puntualmente de un nuevo planteamiento de recubrimiento en pisos debido a el desgaste natural del material realizados estos en madera. 
 Finalmente en general el edifico se mantiene adecuadamente tanto en manera estructural como en su manera ornamental para su desarrollo de actividades de los usuarios. 
-
-
-[![Ciudad de Mexico en el Tiempo: Tlalpan Canal Once](http://i.imgur.com/Tlalpan_Canal Once)](https://www.youtube.com/watch?v=XpKN0o8H4CM "La Ciudad de Mexico en el Tiempo: Tlalpan Canal Once")
-<br>
-<div align="center">
-      <a href="https://www.youtube.com/watch?v=XpKN0o8H4CM">
-         </a>
-    </div>
-
 
 
